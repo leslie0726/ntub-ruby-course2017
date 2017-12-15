@@ -2,7 +2,7 @@
 
 ## 注意事項
 
-1. 作業請以 Pull Request (PR) 方式繳交。若有以下情況，PR 可能會被退回：
+1. 作業請以 Pull Request 方式繳交。若有以下情況，PR 可能會被退回：
    * GitHub 帳號尚未設定個人 Avatar。
    * 檔案不是放在個人學號目錄裡。
    * 單次 PR 的 Commit 次數過多，而且每次的 Commit 都只有一點點的修改。
@@ -20,3 +20,24 @@
 * △ = 已繳交，但內容不完整或需修正。
 * X = 未在期限內繳交，或是明顯「參考」其它同學的作業。
 
+| 學號      | 10/13 | 10/20 | 10/27 | 11/3 | 11/10 | 11/24 | 12/1 | 12/8 | 12/15 |
+| --------- |:-----:|:-----:|:-----:|:----:|:--:|:--:|:--:|:--:|:--:|
+| [10446001](https://github.com/10446001) | O | O | O | O | O | | | | |
+| [10446002](https://github.com/maryyu456) | O | O | O | O | O | | | | |
+| [10446003](https://github.com/Peggy10446003) | O | O | O | O | O | | | | |
+| [10446004](https://github.com/leslie0726) | O | O | O | O | O | | | | |
+| [10446005](https://github.com/JiaWeiXie) | O | O | O | O | O | | | | |
+| [10446006](https://github.com/chiaqingwu) | O | O | O | O | O | | | | |
+| [10446007](https://github.com/IffyArt) | O | △  | △  | O | O | | | | |
+| [10446008](https://github.com/Drunces) | O | O | O | O | O | | | | |
+| [10446011](https://github.com/jerry0513) | O | O | O | O | O | | | | |
+| [10446012](https://github.com/10446012) | O | O | O | O | O | | | | |
+| [10446013](https://github.com/mushroomchen0429) | O | O | O | O | O | | | | |
+| [10446014](https://github.com/10446014) | O | O | O | O | O | | | | |
+| [10446088](https://github.com/jchsuHsu) | O | O | O | O | X | | | | |
+| [10536008](https://github.com/ting434252) | O | O | O | O | O | | | | |
+| [10536016](https://github.com/Luck626kkk) | O | O | △  | O | O | | | | |
+| [10636005](https://github.com/chiiien) | O | O | O | O | O | | | | |
+| [10636008](https://github.com/s920613a) | O | O | O | O | O | | | | |
+| [10636014](https://github.com/zhang-rongzhen) | O | O | O | O | O | | | | |
+| [10636024](https://github.com/changyuchieh) | O | O | O | O | O | | | | |
